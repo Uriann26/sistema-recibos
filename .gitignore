@@ -1,4 +1,17 @@
+# Node.js
 node_modules/
 .env
+
+# Python
 __pycache__/
 *.pyc
+
+# Docker
+*.log
+*.pid
+
+# Outros
+*.sqlite
+*.db
+dist/
+build/
