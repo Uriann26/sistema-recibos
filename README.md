@@ -116,7 +116,7 @@ docker run -p 5000:5000 recibo-pdf
 
 **Leonardo Guedes Barbosa**
 Mestre em Engenharia Estrutural | Desenvolvedor Back-End
-[GitHub](https://github.com/Uriann26) | [LinkedIn](https://linkedin.com)
+[GitHub](https://github.com/Uriann26) | [LinkedIn](https://www.linkedin.com/in/leonardo-barbosa-576024135/)
 
 ---
 
